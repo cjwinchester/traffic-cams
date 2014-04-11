@@ -22,6 +22,7 @@ for thing in cams:
     
 """
 
+# check for a new still every five minutes for an hour
 for n in range(0, 3600000, 300000):
     for thing in cams:
         os.chdir(thing[0])
@@ -36,8 +37,11 @@ for n in range(0, 3600000, 300000):
         os.chdir(os.pardir)
     time.sleep(300)
     
+
 """
-import time
+
+# figure out the camera numbers
+
 import requests
 from requests.exceptions import HTTPError
 

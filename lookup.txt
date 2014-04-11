@@ -1,0 +1,44 @@
+201,Dodge Street at 102nd
+202,West Dodge at 118th, looking east
+203,West Dodge and 125th
+204,I-680 and Maple
+205,I-680 and Fort Street
+206,I-480 at Dodge Street
+207,I-480 and North Freeway
+209,I-480 and the Missouri River
+210,I-480 and Leavenworth
+211,I-80 and I-480
+212,I-80 at I-480 junction
+213,I-80 at 13th Street
+215,Highway 75 and L Street
+216,Highway 75 and Gilmore Avenue
+218,I-80 at 72nd Street
+219,I-80 and 84th Street
+220,I-80 and I-680 junction
+221,I-80 and I-680 north of I Street
+222,I-80 at Giles Road
+223,I-80 at 144th Street
+224,I-80 at Highway 370
+280,I-80 at the Missouri River
+201,Dodge Street at 102nd
+202,West Dodge at 118th, looking east
+203,West Dodge and 125th
+204,I-680 and Maple
+205,I-680 and Fort Street
+206,I-480 at Dodge Street
+207,I-480 and North Freeway
+209,I-480 and the Missouri River
+210,I-480 and Leavenworth
+211,I-80 and I-480
+212,I-80 at I-480 junction
+213,I-80 at 13th Street
+215,Highway 75 and L Street
+216,Highway 75 and Gilmore Avenue
+218,I-80 at 72nd Street
+219,I-80 and 84th Street
+220,I-80 and I-680 junction
+221,I-80 and I-680 north of I Street
+222,I-80 at Giles Road
+223,I-80 at 144th Street
+224,I-80 at Highway 370
+280,I-80 at the Missouri River
